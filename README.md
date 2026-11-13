@@ -85,6 +85,20 @@ The project provides an interactive platform to understand retail sales patterns
 
 Mansi Pawar
 
+## 📸 Dashboard Screenshots
+
+### 1. Demand Forecast
+![Demand Forecast](screenshots/demand_forecast.png)
+
+### 2. Purchase Prediction
+![Purchase Prediction](screenshots/purchase_prediction.png)
+
+### 3. Customer Segmentation
+![Customer Segmentation](screenshots/customer_segment.png)
+
+### 4. Sales Anomaly Detection
+![Sales Anomaly](screenshots/sales_anomaly.png)
+
 ⚠️ Disclaimer
 
 This project uses synthetic example data for educational and portfolio purposes. Predictions are demonstrations and should not be treated as business-grade forecasts.
